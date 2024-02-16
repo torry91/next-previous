@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  justify-content: center;
+  background-color: #EEEDEB;
+}
+
+.person {
+  margin: 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button {
+  background-color: #527853;
+  color: #fff;
+  padding: 25px;
+  border: none;
+  text-transform: uppercase;
+  border-radius: 15px;
+}
