@@ -4,7 +4,6 @@ This is a simple React application that allows users to view information about d
 Users can navigate through the list of people using the "Previous" and "Next" buttons.
 
 <img width="1058" alt="Untitled" src="https://github.com/torry91/next-previous/assets/149702982/e4b1d4cc-3be5-4afc-801a-1548c728d9d6">
-
 ## Usage
 Upon opening the app, you will see information about the first person in the list.
 Use the "Next" button to view information about the next person in the list.
