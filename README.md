@@ -1,4 +1,4 @@
-# Person Viewer App
+# Dating App
 
 This is a simple React application that allows users to view information about different people stored in a data array. 
 Users can navigate through the list of people using the "Previous" and "Next" buttons.
